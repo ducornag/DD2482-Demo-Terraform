@@ -27,6 +27,6 @@ The demo was largely inspired by the following video: https://www.youtube.com/wa
 It will explain more in detail the required steps, and why we do the infrastructure in the way we do.
 We highly recommend watching it if you want to dig deeper into terraform
 
-### Ontact
+### Contact
 Feel free to contact us at:  
 gatien@kth.se or ddnadjar@kth.se
