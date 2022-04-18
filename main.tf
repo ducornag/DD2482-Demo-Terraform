@@ -71,13 +71,6 @@ resource "aws_security_group" "allow_web" {
     cidr_blocks = ["0.0.0.0/0"]
   }
   ingress {
-    description = "Remove ME"
-    from_port   = 444
-    to_port     = 444
-    protocol    = "tcp"
-    cidr_blocks = ["0.0.0.0/0"]
-  }
-  ingress {
     description = "HTTP"
     from_port   = 80
     to_port     = 80
