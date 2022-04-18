@@ -26,3 +26,7 @@ You need:
 The demo was largely inspired by the following video: https://www.youtube.com/watch?v=SLB_c_ayRMo  
 It will explain more in detail the required steps, and why we do the infrastructure in the way we do.
 We highly recommend watching it if you want to dig deeper into terraform
+
+### Ontact
+Feel free to contact us at:  
+gatien@kth.se or ddnadjar@kth.se
