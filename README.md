@@ -1,6 +1,10 @@
 # DD2482-Demo-Terraform
 Repo for the DD2482 demo done in week 5 (Terraform with Jetbrains)
 
+## Slides
+Here is the link to the slides:  
+https://docs.google.com/presentation/d/1QAi4fUww1lCSKpa1PNqtQRfNj-3Uge6wzx1O4wWyZb8/edit?usp=sharing
+
 ## Replicate the demo
 ### Requirements
 You need:  
